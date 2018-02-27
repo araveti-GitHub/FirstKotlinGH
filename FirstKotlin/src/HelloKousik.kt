@@ -2,7 +2,7 @@ package demo
 
 fun main (args: Array<String>) {
     println ("Kousik Age is")
-    println (12)
+    print (12)
 
     val myName = "Veera"
     var myAge = 43
